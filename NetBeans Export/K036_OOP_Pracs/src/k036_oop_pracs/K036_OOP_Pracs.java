@@ -7,7 +7,7 @@ package k036_oop_pracs;
 
 /**
  *
- * @author mpstme.student
+ * @author Arjun Mehta
  */
 public class K036_OOP_Pracs {
 
